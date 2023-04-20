@@ -4,6 +4,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioAlvees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
+  </br>
+  
+  <div style="">
+<a href="https://github.com/FabioAlvees">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAlvees&layout=compact&langs_count=7&theme=react"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioAlvees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  -->
+</div>
+
+</br>
    ##
  
 <div> 
